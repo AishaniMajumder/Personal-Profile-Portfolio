@@ -1,31 +1,26 @@
-vCard - Personal Portfolio
+Personal-Profile-Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Aishani Majumder
+Aishani Majumder
+B.Tech Undergraduate Student
 
 Show Contacts
 
 Email
-richard@example.com
+aishmaj43@gmail.com
 
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
+Linked-In:
+www.linkedin.com/in/aishani-majumder-5907172a9
 
 Location
-Sacramento, California, USA
+Kolkata, West Bengal, India
 
 # navbar
 
 About
-Resume
-Portfolio
-Blog
+Resume/Skills
 Contact
 
 # about
